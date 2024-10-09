@@ -3,8 +3,8 @@ Coffee Blend Manager Project: A comprehensive tool designed to help manage and c
 ## images
 
 <div>
-    <img src="images/coffee_image_1.png" alt="Coffee Image 1" width="300" style="display:inline-block; margin-right:10px;"/>
-    <img src="images/coffee_image_2.png" alt="Coffee Image 2" width="300" style="display:inline-block;"/>
+    <img src="Images/coffee_image_1.png" alt="Coffee Image 1" width="300" style="display:inline-block; margin-right:10px;"/>
+    <img src="Images/coffee_image_2.png" alt="Coffee Image 2" width="300" style="display:inline-block;"/>
 </div>
 
 ## images
