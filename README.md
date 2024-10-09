@@ -9,5 +9,5 @@ Coffee Blend Manager Project: A comprehensive tool designed to help manage and c
 
 ## images
 
-<img src="Images/coffee_image_1.png" alt="Coffee Image 1" width="300"/>
-<img src="Images/coffee_image_2.png" alt="Coffee Image 2" width="300"/>
+<img src="Images/coffee_image_1.png" alt="Coffee Image 1" width="400"/>
+<img src="Images/coffee_image_2.png" alt="Coffee Image 2" width="500"/>
