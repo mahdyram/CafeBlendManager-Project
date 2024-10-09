@@ -1,6 +1,7 @@
 # CafeBlendManager-Project
 
-![Logo](Images/yellow.ico)
+<img src="Images/yellow.png" alt="Logo" width="200"/>
+
 
 Coffee Blend Manager Project: A comprehensive tool designed to help manage and calculate custom coffee blends for cafés. This project includes features like price calculations, blend history tracking, and easy customization of coffee options.
 
